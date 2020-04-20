@@ -1,0 +1,1 @@
+curl -X POST https://9hq8espfh3.execute-api.eu-west-2.amazonaws.com/dev/hello -d 'Hello, world!'
